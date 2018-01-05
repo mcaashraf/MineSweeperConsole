@@ -1,0 +1,7 @@
+C:\Users\Zumba\source\MineSweeperConsole\MineSweeperConsole\obj\Debug\MineSweeperConsole.csprojResolveAssemblyReference.cache
+C:\Users\Zumba\source\MineSweeperConsole\MineSweeperConsole\obj\Debug\MineSweeperConsole.csproj.CoreCompileInputs.cache
+C:\Users\Zumba\source\MineSweeperConsole\MineSweeperConsole\bin\Debug\MineSweeperConsole.exe.config
+C:\Users\Zumba\source\MineSweeperConsole\MineSweeperConsole\bin\Debug\MineSweeperConsole.exe
+C:\Users\Zumba\source\MineSweeperConsole\MineSweeperConsole\bin\Debug\MineSweeperConsole.pdb
+C:\Users\Zumba\source\MineSweeperConsole\MineSweeperConsole\obj\Debug\MineSweeperConsole.exe
+C:\Users\Zumba\source\MineSweeperConsole\MineSweeperConsole\obj\Debug\MineSweeperConsole.pdb
